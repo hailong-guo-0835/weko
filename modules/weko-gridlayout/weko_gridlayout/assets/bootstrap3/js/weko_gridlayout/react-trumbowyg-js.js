@@ -1,2 +1,10 @@
 import 'react-trumbowyg';
 import 'react-quilljs';
+import 'trumbowyg/dist/plugins/base64/trumbowyg.base64.min.js';
+import 'trumbowyg/dist/plugins/pasteimage/trumbowyg.pasteimage.min.js';
+import 'trumbowyg/dist/plugins/fontfamily/trumbowyg.fontfamily.min.js';
+import 'trumbowyg/dist/plugins/fontsize/trumbowyg.fontsize.min.js';
+import 'trumbowyg/dist/plugins/colors/trumbowyg.colors.min.js';
+// import 'trumbowyg/dist/plugins/table/trumbowyg.table.min.js';
+import 'trumbowyg/dist/plugins/upload/trumbowyg.upload.min.js';
+import 'react-trumbowyg/dist/react-trumbowyg.js';
